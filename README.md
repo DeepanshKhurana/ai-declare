@@ -1,8 +1,12 @@
 [![AI-DECLARATION: copilot](https://img.shields.io/badge/䷼%20AI--DECLARATION-copilot-fee2e2?labelColor=fee2e2)](https://ai-declaration.md)
+[![Dimwit Pledge](https://dimwit.me/pledge.svg)](https://dimwit.me/pledge)
 
 # ai-declare
 
 A skill for coding agents to declare AI usage transparency via the [DimwitLabs AI-DECLARATION.md](https://ai-declaration.md) spec.
+
+> [!NOTE]
+> This project is backed by the [Dimwit Pledge](https://dimwit.me/pledge).
 
 ## Motivation
 
